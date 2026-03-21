@@ -3,6 +3,7 @@ __pycache__
 *.joblib
 src/__pycache__
 src/misc/__pycache__
+src/misc/plot.py
 dataset_binaire.csv
 dataset_multiclass.csv
 uv.lock
